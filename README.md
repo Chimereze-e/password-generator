@@ -17,8 +17,7 @@ A simple and secure random password generator built using HTML, CSS, and JavaScr
 
 ## Screenshot
 
-![Uploading Screenshot 2025-05-28 at 21.22.45.png…]()
-
+![Screenshot 2025-05-28 at 21 22 45](https://github.com/user-attachments/assets/bdd5f90e-fdd6-4512-a0ca-1f498eba9db1)
 
 ## How It Works
 
